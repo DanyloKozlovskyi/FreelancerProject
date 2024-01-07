@@ -1,0 +1,4 @@
+81737483, Maxim, qwer@gmail.com, +380879223520, 50.0, 5000.0, Backend Developer
+12341234, Danylo, kd@gmail.com, +380979123127, 40.0, 1000.0, DevOps
+12361234, Evgeniy, aaa@gmail.com, +380979123199, 40.0, 1000.0, Frontend Developer
+00000234, Roman, ro@gmail.com, +380679223520, 71.0, 23240.0, DevOps
